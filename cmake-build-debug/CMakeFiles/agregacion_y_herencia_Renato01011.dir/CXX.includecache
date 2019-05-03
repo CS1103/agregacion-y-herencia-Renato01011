@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Renato Bacigalupo/agregacion-y-herencia-Renato01011/Biblioteca.cpp
+Biblioteca.h
+/home/utec/Renato Bacigalupo/agregacion-y-herencia-Renato01011/Biblioteca.h
+iostream
+-
+
+/home/utec/Renato Bacigalupo/agregacion-y-herencia-Renato01011/Biblioteca.h
+string
+-
+vector
+-
+

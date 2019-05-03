@@ -1,0 +1,3 @@
+/home/utec/Renato Bacigalupo/agregacion-y-herencia-Renato01011/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Renato Bacigalupo/agregacion-y-herencia-Renato01011/cmake-build-debug/CMakeFiles/agregacion_y_herencia_Renato01011.dir
+/home/utec/Renato Bacigalupo/agregacion-y-herencia-Renato01011/cmake-build-debug/CMakeFiles/edit_cache.dir
